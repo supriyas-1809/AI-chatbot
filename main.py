@@ -1,5 +1,5 @@
-### Author: Riya Nakarmi ###
-### College Project ###
+### Author: Supriya Shekhar ###
+### Python Project ###
 
 import random
 import json
