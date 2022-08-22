@@ -1,4 +1,3 @@
-### Author: Supriya Shekhar ###
 ### Python Project ###
 
 import random
